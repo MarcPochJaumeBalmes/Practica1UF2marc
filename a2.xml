@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="a2.xsl" type="text/xsl"?>
+
+<armari>  
+    <prenda>  
+      <nom>Pantalo Levi's</nom>
+      <talla>38</talla>
+    </prenda>
+    <prenda>  
+        <nom>Samarreta Nike</nom>
+        <talla>XL</talla>
+    </prenda>
+    <prenda>  
+        <nom>Mitjons Zara</nom>
+        <talla>43</talla>
+    </prenda>
+    <prenda>  
+        <nom>Sabates Adidas</nom>
+        <talla>44</talla>
+    </prenda>    
+</armari>  

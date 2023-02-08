@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="a3.xsl" type="text/xsl"?>
+
+<armari>  
+    <prenda>  
+      <nom>Pantalons Levi's</nom>
+      <talla>34</talla>
+      <preu>40</preu>
+      <color>Blau</color>
+      <datacompra>2010</datacompra>
+      <propietari>Nuria</propietari>
+    </prenda>
+    <prenda>  
+        <nom>Samarreta Nike</nom>
+        <talla>XL</talla>
+        <preu>18</preu>
+        <color>Gris</color>
+        <datacompra>2016</datacompra>
+        <propietari>Arnau</propietari>
+    </prenda>
+    <prenda>  
+        <nom>Mitjons Zara</nom>
+        <talla>43</talla>
+        <preu>18</preu>
+        <color>Negres</color>
+        <datacompra>2017</datacompra>
+        <propietari>Arnau</propietari>
+    </prenda>
+    <prenda>  
+        <nom>Sabates Adidas</nom>
+        <talla>36</talla>
+        <preu>65</preu>
+        <color>Blanc</color>
+        <datacompra>2020</datacompra>
+        <propietari>Nuria</propietari>
+    </prenda>
+    <prenda>  
+        <nom>Sabates Vans</nom>
+        <talla>43</talla>
+        <preu>70</preu>
+        <color>Negre</color>
+        <datacompra>2022</datacompra>
+        <propietari>Arnau</propietari>
+    </prenda>
+    <prenda>  
+        <nom>Pantalons Zara</nom>
+        <talla>40</talla>
+        <preu>30</preu>
+        <color>Blau</color>
+        <datacompra>2023</datacompra>
+        <propietari>Arnau</propietari>
+    </prenda>  
+    <prenda>  
+        <nom>Camisa Stradivarius</nom>
+        <talla>S</talla>
+        <preu>10</preu>
+        <color>Blanc</color>
+        <datacompra>2024</datacompra>
+        <propietari>Nuria</propietari>
+    </prenda>      
+</armari>  
